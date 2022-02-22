@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_novo_cartao">Novo Cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">telefone</string>
+    <string name="label_email">email</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="txt_confirmar">Confirmar</string>
+    <string name="label_cor">Cor</string>
+</resources>
