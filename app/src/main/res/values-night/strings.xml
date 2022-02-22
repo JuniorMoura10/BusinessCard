@@ -7,4 +7,5 @@
     <string name="label_empresa">Empresa</string>
     <string name="txt_confirmar">Confirmar</string>
     <string name="label_cor">Cor</string>
+    <string name="label_share">Compartilhar</string>
 </resources>
